@@ -1,5 +1,5 @@
 # ResNet_image_classifier
-Image classification Using ResNet.
+Image classification using ResNet.
 
 These materials are basicly from the Coursera lesson given by DeepLearning.ai and Francois Chollet's github repository, for detail please check :
 - www.coursera.org/learn/convolutional-neural-networks
